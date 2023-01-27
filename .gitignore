@@ -1,4 +1,6 @@
 *.js
-/style
-/.idea
-/.vscode
+/style/
+
+#Lignes pour les IDE (dossier d'espace de travail)
+/.idea/
+/.vscode/
